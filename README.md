@@ -10,9 +10,14 @@ This project uses **YOLOv8** (You Only Look Once) for **real-time vehicle detect
 - Logs in/out timestamps
 - RTSP/Live camera/video file support
 
+## 🎬 Output Preview
+
+[![Watch the demo](https://raw.githubusercontent.com/yourusername/your-repo/main/assets/thumbnail.png)](https://github.com/yourusername/your-repo/blob/main/assets/output.gif)
+
 ## 🔧 Requirements
 
 ```bash
 pip install ultralytics opencv-python numpy
 # Optional for tracking
 pip install deep-sort-realtime
+
