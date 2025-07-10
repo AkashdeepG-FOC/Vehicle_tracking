@@ -10,10 +10,13 @@ This project uses **YOLOv8** (You Only Look Once) for **real-time vehicle detect
 - Logs in/out timestamps
 - RTSP/Live camera/video file support
 
-## 🎬 Output Preview
 
-[![Watch the demo](https://raw.githubusercontent.com/yourusername/your-repo/main/assets/thumbnail.png)](https://github.com/yourusername/your-repo/blob/main/assets/output.gif)
+## 🎥 Output Video Preview
+<p align="center">
+  <img src="assets/output.gif" width="700"/>
+</p>
 
+> 🚦 Watch how vehicles are detected and counted as they pass the virtual line!
 ## 🔧 Requirements
 
 ```bash
